@@ -1,0 +1,5 @@
+die farben des regenbogens
+rot 
+grün
+gelb
+blau
