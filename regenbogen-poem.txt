@@ -4,3 +4,4 @@ grün
 gelb
 blau
 rosa
+pink
