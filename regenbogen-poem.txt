@@ -3,3 +3,4 @@ rot
 grün
 gelb
 blau
+rosa
